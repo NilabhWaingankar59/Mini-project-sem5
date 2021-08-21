@@ -1,0 +1,26 @@
+body{
+    margin: 0%;  
+}
+*{
+    overflow: hidden;
+}
+
+.header-logo{
+    height: 100px;
+    width: 100%;
+    background: rgb(98, 52, 151);
+}
+.header-centre{
+    margin: auto;
+    width: 50%;
+    height: 100%;
+    align-items: center;
+    color: white;
+}
+.header-slogen .header-main{
+    text-align: center;
+}
+.header-slogen{
+    margin: auto;
+    width: 50%; 
+}
