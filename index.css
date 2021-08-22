@@ -6,7 +6,7 @@ body{
 }
 
 .header-logo{
-    height: 100px;
+    height: 80px;
     width: 100%;
     background: rgb(98, 52, 151);
 }
@@ -28,4 +28,26 @@ body{
 .navbar-custom {
     background-color: #0dcaf0;
     color: white;
+}
+.filters-div{
+    background-color: rgb(227, 233, 227);
+}
+.filters{
+    display: block;
+    padding: 0%;
+    margin: 0%;
+}
+.filters li{
+    display: inline-block;
+    margin: auto;
+    width: 16%;
+    padding: 0.8% 1% 0% 1%;
+    
+}
+
+.filters li button{
+    border-radius: 10px;
+    width: 100%;
+    background: white;
+    font-weight: 450;
 }
