@@ -24,3 +24,8 @@ body{
     margin: auto;
     width: 50%; 
 }
+
+.navbar-custom {
+    background-color: #0dcaf0;
+    color: white;
+}
